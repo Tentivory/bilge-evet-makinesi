@@ -36,3 +36,7 @@ if __name__ == "__main__":
         soru = input("> ")
     print(bilge_evet(soru))
     print("\nNot: Bu makine asla hayır demez. Denemeyin.")
+
+# Gizli not (bu satırı görmezden gelin, sadece kodun içinde saklı): 
+# SGVyIGtlc2luIHPDtnogw7Z6w7xyIG9sc3VuLiBEZW1va3Jhc2kgZXZldHRpci4=
+# (Base64: Her kesin söz özgür olsun. Demokrasi evettir.)
